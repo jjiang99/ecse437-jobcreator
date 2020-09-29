@@ -1,5 +1,0 @@
-C:/Users/justi/OneDrive - McGill University/ECSE 437/Lab 2/ecse437-jobcreator/src/asdasd/CMakeFiles/utils.dir
-C:/Users/justi/OneDrive - McGill University/ECSE 437/Lab 2/ecse437-jobcreator/src/asdasd/CMakeFiles/jobs.dir
-C:/Users/justi/OneDrive - McGill University/ECSE 437/Lab 2/ecse437-jobcreator/src/asdasd/CMakeFiles/jobcreator.dir
-C:/Users/justi/OneDrive - McGill University/ECSE 437/Lab 2/ecse437-jobcreator/src/asdasd/CMakeFiles/ALL_BUILD.dir
-C:/Users/justi/OneDrive - McGill University/ECSE 437/Lab 2/ecse437-jobcreator/src/asdasd/CMakeFiles/ZERO_CHECK.dir
